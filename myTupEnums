@@ -1,0 +1,21 @@
+//const user:(string|number)[]=[1,"hc"]
+
+
+let tUser:[string,number,boolean]
+
+tUser=["hc",131,true]
+
+let rgb:[number,number,number]=[255,123,112]
+
+
+type tUser2=[number,string]
+
+const newUser:tUser2=[112,"exaple@google.com"]
+
+newUser[1]="hc.com"
+
+
+
+
+
+
